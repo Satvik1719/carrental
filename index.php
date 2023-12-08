@@ -34,7 +34,7 @@
                 <h4 class="main-heading">Welcome to <?= webSetting('title') ?? 'Car Rental Services'; ?></h4>
                 <div class="underline mx-auto"></div>
                 <p>
-                    1ST
+                Welcome to our cutting-edge Rent A Car, where convenience meets efficiency! Our system is meticulously designed to revolutionize the way you experience vehicle reservations, fleet management, and customer service. Whether you're a rental agency looking to streamline operations or a customer seeking a hassle-free booking experience, our solution has you covered.
                 </p>
             </div>
         </div>
@@ -70,23 +70,23 @@
                         <div class="testi-card text-center">
                             <h4 class="title1 fs-16 mb-2">Satvik</h4>
                             <p class="testi-para">
-                                2nd
+                                Really Nice and fast service
                             </p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="testi-card text-center">
-                            <h4 class="title1 fs-16 mb-2">Satvik</h4>
+                            <h4 class="title1 fs-16 mb-2">Divya</h4>
                             <p class="testi-para">
-                                3rd
+                                Really Cheap and amazing service
                             </p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="testi-card text-center">
-                            <h4 class="title1 fs-16 mb-2">Satvik</h4>
+                            <h4 class="title1 fs-16 mb-2">Manish</h4>
                             <p class="testi-para">
-                                
+                                Always trustworthy
                             </p>
                         </div>
                     </div>
